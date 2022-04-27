@@ -1,3 +1,3 @@
 # game_learning
-Learning python by making small games
+Projeto da melhor equipe de p1
 # LimoRaCIn-
